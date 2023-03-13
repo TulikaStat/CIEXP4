@@ -1,0 +1,12 @@
+Package: CIEXP4
+Type: Package
+Title: Calculates the estimators of SSI and its confidence bounds
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <tulikastat28893@gmail.com>
+Description: Calculates the estimators of SSI and its confidence bounds for exponential distributions with group size 4
+License: GPL-3
+Encoding: UTF-8
+Depends: gsl, cubature, pracma
+LazyData: true
+RoxygenNote: 7.2.3
